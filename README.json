@@ -1,0 +1,421 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome React",
+          "description": "Helpful resources for developing React.js components.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-20T07:31:52Z",
+            "owner": "enaqx",
+            "repo": "awesome-react",
+            "stars": 74274
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome React Components",
+          "description": "Catalog of React.js components potentially interesting to be wrapped into Dash components.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-01-26T16:36:45Z",
+            "owner": "brillout",
+            "repo": "awesome-react-components",
+            "stars": 48182
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plotly-resampler",
+          "description": "Wrapper for plotly figures that adds data downsampling (aggregating) functionality, enabling the visualization of large datasets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-06T17:43:19Z",
+            "owner": "predict-idlab",
+            "repo": "plotly-resampler",
+            "stars": 1206
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dash Mantine Components",
+          "description": "Collection of 40+ Dash components based on Mantine React Components library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-14T00:20:47Z",
+            "owner": "snehilvj",
+            "repo": "dash-mantine-components",
+            "stars": 726
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dash Core Components",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2022-03-02T16:52:00Z",
+            "owner": "plotly",
+            "repo": "dash-core-components",
+            "stars": 267
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sd-material-ui",
+          "description": "StratoDem Analytics implementations of material-ui components for Dash.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-11-22T01:19:20Z",
+            "owner": "StratoDem",
+            "repo": "sd-material-ui",
+            "stars": 194
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dash-uploader",
+          "description": "Upload component for Dash. Supports large data files.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2025-07-19T18:43:41Z",
+            "owner": "fohrloop",
+            "repo": "dash-uploader",
+            "stars": 154
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dash HTML Components",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2022-03-02T16:57:19Z",
+            "owner": "plotly",
+            "repo": "dash-html-components",
+            "stars": 153
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dj-plotly-dash",
+          "description": "Plotly Dash fork for Django.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T21:25:52Z",
+            "owner": "pikhovkin",
+            "repo": "dj-plotly-dash",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dash-vega-components",
+          "description": "Dash component for Vega-Altair, Vega-Lite, and Vega charts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-11T06:57:22Z",
+            "owner": "vega",
+            "repo": "dash-vega-components",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mydcc",
+          "description": "Extension of Dash Core Components.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-05-19T04:57:35Z",
+            "owner": "jimmybow",
+            "repo": "mydcc",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dash PDF",
+          "description": "Display inline PDFs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-10-02T18:08:15Z",
+            "owner": "ploomber",
+            "repo": "dash-pdf",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dash-flexbox-grid",
+          "description": "Wrapper around react-flexbox-grid for Plotly Dash.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T05:22:55Z",
+            "owner": "pikhovkin",
+            "repo": "dash-flexbox-grid",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dash MUI",
+          "description": "Material UI components",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-11-06T21:38:44Z",
+            "owner": "ploomber",
+            "repo": "dash-mui",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dash Mosaic",
+          "description": "Display Mosaic plots",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-04T15:10:49Z",
+            "owner": "ploomber",
+            "repo": "mosaic-python",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dash-dual-listbox",
+          "description": "Wrapper around react-duallist.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-31T15:11:07Z",
+            "owner": "vivekvs1",
+            "repo": "dash-dual-listbox",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dash React Simple Maps",
+          "description": "Create interactive maps",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-10-02T16:16:40Z",
+            "owner": "ploomber",
+            "repo": "dash-react-simple-maps",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dash Tabler Icons",
+          "description": "Beautiful icons for your Dash apps",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-02T16:21:32Z",
+            "owner": "ploomber",
+            "repo": "dash-tabler-icons",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sd-range-slider",
+          "description": "Range Slider Dash component.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-17T14:34:04Z",
+            "owner": "StratoDem",
+            "repo": "sd-range-slider",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dash-color-picker",
+          "description": "Wrapper around react-color.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-09-20T17:37:14Z",
+            "owner": "vivekvs1",
+            "repo": "dash-color-picker",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dash React Syntax Highlighter",
+          "description": "Display code snippets with a copy button",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-10-02T16:17:51Z",
+            "owner": "ploomber",
+            "repo": "dash-react-syntax-highlighter",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Component Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Uber Rides",
+          "description": "Displays all of the Uber rides in New York City in 2014. Pandas on the backend filters a 0.5gig datafile. Source Code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-01-15T14:18:06Z",
+            "owner": "plotly",
+            "repo": "dash-sample-apps",
+            "stars": 3347
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Drug Discovery",
+          "description": "Displays a description of the drug as you hover over points in the graph. Source Code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-01-15T14:18:06Z",
+            "owner": "plotly",
+            "repo": "dash-sample-apps",
+            "stars": 3347
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Live Wind Streaming",
+          "description": "Continually queries a SQL database and displays live charts of wind speed and wind direction. Source Code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-01-15T14:18:06Z",
+            "owner": "plotly",
+            "repo": "dash-sample-apps",
+            "stars": 3347
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "3D Yield Curve",
+          "description": "Adapted from NYTimes's excellent A 3-D View of a Chart That Predicts The Economic Future: The Yield Curve. Source Code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-01-15T14:18:06Z",
+            "owner": "plotly",
+            "repo": "dash-sample-apps",
+            "stars": 3347
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Oil and Gas Explorer",
+          "description": "Explore oil and gas production over time and with linked visualisations. Source Code.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-04-17T00:52:27Z",
+            "owner": "plotly",
+            "repo": "dash-oil-and-gas-demo",
+            "stars": 200
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Visualize Earthquakes with Plotly Dash",
+          "description": "Great UI and usage of geospatial analytics with Dash. Includes basic unit tests. Source Code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2022-04-14T21:50:51Z",
+            "owner": "jackdbd",
+            "repo": "dash-earthquakes",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GutenSearch",
+          "description": "Look inside the books of Project Gutenberg. Source Code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-01-30T10:02:48Z",
+            "owner": "cordb",
+            "repo": "gutensearch",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "App Examples"
+    },
+    {
+      "description": "This work is licensed under a Creative Commons Attribution 4.0 International License.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T03:31:05.886Z",
+    "original_repository": "ucg8j/awesome-dash",
+    "original_repository_sha": "506ef0c006bbd56d94c0d275c7311426049eb211",
+    "enhanced_repository": "enhansome/enhansome-dash",
+    "enhanced_repository_description": null,
+    "title": "Awesome Dash with stars"
+  }
+}
