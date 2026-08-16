@@ -14,7 +14,7 @@
             "last_commit": "2026-07-20T07:31:52Z",
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 74284
+            "stars": 74287
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-01-26T16:36:45Z",
             "owner": "brillout",
             "repo": "awesome-react-components",
-            "stars": 48190
+            "stars": 48198
           }
         },
         {
@@ -179,7 +179,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T05:17:39Z",
+            "last_commit": "2026-08-15T05:14:43Z",
             "owner": "pikhovkin",
             "repo": "dash-flexbox-grid",
             "stars": 20
@@ -370,7 +370,7 @@
             "last_commit": "2024-04-17T00:52:27Z",
             "owner": "plotly",
             "repo": "dash-oil-and-gas-demo",
-            "stars": 200
+            "stars": 201
           }
         },
         {
@@ -411,7 +411,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T02:27:46.447Z",
+    "last_updated": "2026-08-16T02:35:25.997Z",
     "original_repository": "ucg8j/awesome-dash",
     "original_repository_sha": "506ef0c006bbd56d94c0d275c7311426049eb211",
     "enhanced_repository": "enhansome/enhansome-dash",
