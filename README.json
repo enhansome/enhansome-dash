@@ -14,7 +14,7 @@
             "last_commit": "2026-07-20T07:31:52Z",
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 74287
+            "stars": 74298
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-01-26T16:36:45Z",
             "owner": "brillout",
             "repo": "awesome-react-components",
-            "stars": 48198
+            "stars": 48210
           }
         },
         {
@@ -179,7 +179,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T05:14:43Z",
+            "last_commit": "2026-08-16T05:16:40Z",
             "owner": "pikhovkin",
             "repo": "dash-flexbox-grid",
             "stars": 20
@@ -314,7 +314,7 @@
             "last_commit": "2025-01-15T14:18:06Z",
             "owner": "plotly",
             "repo": "dash-sample-apps",
-            "stars": 3347
+            "stars": 3348
           }
         },
         {
@@ -328,7 +328,7 @@
             "last_commit": "2025-01-15T14:18:06Z",
             "owner": "plotly",
             "repo": "dash-sample-apps",
-            "stars": 3347
+            "stars": 3348
           }
         },
         {
@@ -342,7 +342,7 @@
             "last_commit": "2025-01-15T14:18:06Z",
             "owner": "plotly",
             "repo": "dash-sample-apps",
-            "stars": 3347
+            "stars": 3348
           }
         },
         {
@@ -356,7 +356,7 @@
             "last_commit": "2025-01-15T14:18:06Z",
             "owner": "plotly",
             "repo": "dash-sample-apps",
-            "stars": 3347
+            "stars": 3348
           }
         },
         {
@@ -411,7 +411,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T02:35:25.997Z",
+    "last_updated": "2026-08-17T02:35:00.628Z",
     "original_repository": "ucg8j/awesome-dash",
     "original_repository_sha": "506ef0c006bbd56d94c0d275c7311426049eb211",
     "enhanced_repository": "enhansome/enhansome-dash",
