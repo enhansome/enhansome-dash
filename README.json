@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22670857,
             "language": null,
             "last_commit": "2026-07-20T07:31:52Z",
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 74327
+            "stars": 74334
           }
         },
         {
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61893399,
             "language": null,
             "last_commit": "2026-01-26T16:36:45Z",
             "owner": "brillout",
             "repo": "awesome-react-components",
-            "stars": 48222
+            "stars": 48226
           }
         },
         {
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 430076839,
             "language": "Python",
             "last_commit": "2025-12-06T17:43:19Z",
             "owner": "predict-idlab",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 427048846,
             "language": "TypeScript",
             "last_commit": "2026-08-14T00:20:47Z",
             "owner": "snehilvj",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 61313020,
             "language": "Python",
             "last_commit": "2022-03-02T16:52:00Z",
             "owner": "plotly",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 112852873,
             "language": "Python",
             "last_commit": "2024-11-22T01:19:20Z",
             "owner": "StratoDem",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 259146427,
             "language": "Python",
             "last_commit": "2025-07-19T18:43:41Z",
             "owner": "fohrloop",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 62158932,
             "language": "Python",
             "last_commit": "2022-03-02T16:57:19Z",
             "owner": "plotly",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 151003269,
             "language": "JavaScript",
             "last_commit": "2026-08-17T10:03:43Z",
             "owner": "pikhovkin",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 704649791,
             "language": "Python",
             "last_commit": "2024-08-11T06:57:22Z",
             "owner": "vega",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 97875019,
             "language": "JavaScript",
             "last_commit": "2018-05-19T04:57:35Z",
             "owner": "jimmybow",
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 864307752,
             "language": "JavaScript",
             "last_commit": "2024-10-02T18:08:15Z",
             "owner": "ploomber",
@@ -178,8 +190,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 135193052,
             "language": "Python",
-            "last_commit": "2026-08-16T05:16:40Z",
+            "last_commit": "2026-08-19T05:18:27Z",
             "owner": "pikhovkin",
             "repo": "dash-flexbox-grid",
             "stars": 20
@@ -192,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 860983970,
             "language": "JavaScript",
             "last_commit": "2024-11-06T21:38:44Z",
             "owner": "ploomber",
@@ -206,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 866584137,
             "language": "Python",
             "last_commit": "2024-10-04T15:10:49Z",
             "owner": "ploomber",
@@ -220,6 +235,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 149683576,
             "language": "Python",
             "last_commit": "2024-08-31T15:11:07Z",
             "owner": "vivekvs1",
@@ -234,6 +250,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 860703616,
             "language": "JavaScript",
             "last_commit": "2024-10-02T16:16:40Z",
             "owner": "ploomber",
@@ -248,6 +265,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 863882470,
             "language": "Python",
             "last_commit": "2024-10-02T16:21:32Z",
             "owner": "ploomber",
@@ -262,6 +280,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 107199869,
             "language": "JavaScript",
             "last_commit": "2026-04-17T14:34:04Z",
             "owner": "StratoDem",
@@ -276,6 +295,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 149646847,
             "language": "Python",
             "last_commit": "2018-09-20T17:37:14Z",
             "owner": "vivekvs1",
@@ -290,6 +310,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 863186474,
             "language": "JavaScript",
             "last_commit": "2024-10-02T16:17:51Z",
             "owner": "ploomber",
@@ -301,7 +322,7 @@
       "title": "Component Libraries"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -310,6 +331,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 180372498,
             "language": "Jupyter Notebook",
             "last_commit": "2025-01-15T14:18:06Z",
             "owner": "plotly",
@@ -324,6 +346,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 180372498,
             "language": "Jupyter Notebook",
             "last_commit": "2025-01-15T14:18:06Z",
             "owner": "plotly",
@@ -338,6 +361,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 180372498,
             "language": "Jupyter Notebook",
             "last_commit": "2025-01-15T14:18:06Z",
             "owner": "plotly",
@@ -352,6 +376,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 180372498,
             "language": "Jupyter Notebook",
             "last_commit": "2025-01-15T14:18:06Z",
             "owner": "plotly",
@@ -366,6 +391,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 94473512,
             "language": "Python",
             "last_commit": "2024-04-17T00:52:27Z",
             "owner": "plotly",
@@ -380,6 +406,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 96701871,
             "language": "CSS",
             "last_commit": "2022-04-14T21:50:51Z",
             "owner": "jackdbd",
@@ -394,6 +421,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 332710189,
             "language": "Python",
             "last_commit": "2021-01-30T10:02:48Z",
             "owner": "cordb",
@@ -403,16 +431,12 @@
         }
       ],
       "title": "App Examples"
-    },
-    {
-      "description": "This work is licensed under a Creative Commons Attribution 4.0 International License.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T02:33:05.364Z",
+    "last_updated": "2026-08-19T12:22:09.457Z",
     "original_repository": "ucg8j/awesome-dash",
+    "original_repository_id": 107999883,
     "original_repository_sha": "506ef0c006bbd56d94c0d275c7311426049eb211",
     "enhanced_repository": "enhansome/enhansome-dash",
     "enhanced_repository_description": null,
