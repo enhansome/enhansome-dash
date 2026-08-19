@@ -14,7 +14,7 @@
             "last_commit": "2026-07-20T07:31:52Z",
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 74311
+            "stars": 74327
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-01-26T16:36:45Z",
             "owner": "brillout",
             "repo": "awesome-react-components",
-            "stars": 48214
+            "stars": 48222
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2025-12-06T17:43:19Z",
             "owner": "predict-idlab",
             "repo": "plotly-resampler",
-            "stars": 1206
+            "stars": 1208
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2026-08-14T00:20:47Z",
             "owner": "snehilvj",
             "repo": "dash-mantine-components",
-            "stars": 725
+            "stars": 726
           }
         },
         {
@@ -314,7 +314,7 @@
             "last_commit": "2025-01-15T14:18:06Z",
             "owner": "plotly",
             "repo": "dash-sample-apps",
-            "stars": 3348
+            "stars": 3346
           }
         },
         {
@@ -328,7 +328,7 @@
             "last_commit": "2025-01-15T14:18:06Z",
             "owner": "plotly",
             "repo": "dash-sample-apps",
-            "stars": 3348
+            "stars": 3346
           }
         },
         {
@@ -342,7 +342,7 @@
             "last_commit": "2025-01-15T14:18:06Z",
             "owner": "plotly",
             "repo": "dash-sample-apps",
-            "stars": 3348
+            "stars": 3346
           }
         },
         {
@@ -356,7 +356,7 @@
             "last_commit": "2025-01-15T14:18:06Z",
             "owner": "plotly",
             "repo": "dash-sample-apps",
-            "stars": 3348
+            "stars": 3346
           }
         },
         {
@@ -411,7 +411,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T02:30:36.048Z",
+    "last_updated": "2026-08-19T02:33:05.364Z",
     "original_repository": "ucg8j/awesome-dash",
     "original_repository_sha": "506ef0c006bbd56d94c0d275c7311426049eb211",
     "enhanced_repository": "enhansome/enhansome-dash",
