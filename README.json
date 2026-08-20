@@ -15,7 +15,7 @@
             "last_commit": "2026-07-20T07:31:52Z",
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 74334
+            "stars": 74340
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-01-26T16:36:45Z",
             "owner": "brillout",
             "repo": "awesome-react-components",
-            "stars": 48226
+            "stars": 48232
           }
         },
         {
@@ -336,7 +336,7 @@
             "last_commit": "2025-01-15T14:18:06Z",
             "owner": "plotly",
             "repo": "dash-sample-apps",
-            "stars": 3346
+            "stars": 3347
           }
         },
         {
@@ -351,7 +351,7 @@
             "last_commit": "2025-01-15T14:18:06Z",
             "owner": "plotly",
             "repo": "dash-sample-apps",
-            "stars": 3346
+            "stars": 3347
           }
         },
         {
@@ -366,7 +366,7 @@
             "last_commit": "2025-01-15T14:18:06Z",
             "owner": "plotly",
             "repo": "dash-sample-apps",
-            "stars": 3346
+            "stars": 3347
           }
         },
         {
@@ -381,7 +381,7 @@
             "last_commit": "2025-01-15T14:18:06Z",
             "owner": "plotly",
             "repo": "dash-sample-apps",
-            "stars": 3346
+            "stars": 3347
           }
         },
         {
@@ -434,7 +434,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:22:09.457Z",
+    "last_updated": "2026-08-20T02:31:52.887Z",
     "original_repository": "ucg8j/awesome-dash",
     "original_repository_id": 107999883,
     "original_repository_sha": "506ef0c006bbd56d94c0d275c7311426049eb211",
