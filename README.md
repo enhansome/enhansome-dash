@@ -48,8 +48,8 @@ A curated list of awesome Dash (plotly) resources
 
 ## Component Libraries
 
-* [Awesome React](https://github.com/enaqx/awesome-react) ⭐ 74,340 | 🐛 82 | 📅 2026-07-20 - Helpful resources for developing React.js components.
-* [Awesome React Components](https://github.com/brillout/awesome-react-components) ⭐ 48,232 | 🐛 81 | 📅 2026-01-26 - Catalog of React.js components potentially interesting to be wrapped into Dash components.
+* [Awesome React](https://github.com/enaqx/awesome-react) ⭐ 74,347 | 🐛 81 | 📅 2026-08-20 - Helpful resources for developing React.js components.
+* [Awesome React Components](https://github.com/brillout/awesome-react-components) ⭐ 48,237 | 🐛 81 | 📅 2026-01-26 - Catalog of React.js components potentially interesting to be wrapped into Dash components.
 * [plotly-resampler](https://github.com/predict-idlab/plotly-resampler) ⭐ 1,208 | 🐛 70 | 🌐 Python | 📅 2025-12-06 - Wrapper for plotly figures that adds data downsampling (aggregating) functionality, enabling the visualization of large datasets.
 * [Dash Mantine Components](https://github.com/snehilvj/dash-mantine-components) ⭐ 726 | 🐛 11 | 🌐 TypeScript | 📅 2026-08-14 - Collection of 40+ Dash components based on Mantine React Components library.
 * [Dash Core Components](https://github.com/plotly/dash-core-components) ⚠️ Archived
@@ -60,9 +60,9 @@ A curated list of awesome Dash (plotly) resources
 * [dash-vega-components](https://github.com/altair-viz/dash-vega-components) ⭐ 48 | 🐛 0 | 🌐 Python | 📅 2024-08-11 - Dash component for Vega-Altair, Vega-Lite, and Vega charts.
 * [mydcc](https://github.com/jimmybow/mydcc) ⭐ 37 | 🐛 4 | 🌐 JavaScript | 📅 2018-05-19 - Extension of Dash Core Components.
 * [Dash PDF](https://github.com/ploomber/dash-pdf) ⭐ 24 | 🐛 1 | 🌐 JavaScript | 📅 2024-10-02 - Display inline PDFs
-* [dash-flexbox-grid](https://github.com/pikhovkin/dash-flexbox-grid) ⭐ 20 | 🐛 13 | 🌐 Python | 📅 2026-08-19 - Wrapper around react-flexbox-grid for Plotly Dash.
+* [dash-flexbox-grid](https://github.com/pikhovkin/dash-flexbox-grid) ⭐ 20 | 🐛 13 | 🌐 Python | 📅 2026-08-20 - Wrapper around react-flexbox-grid for Plotly Dash.
 * [Dash MUI](https://github.com/ploomber/dash-mui) ⭐ 19 | 🐛 4 | 🌐 JavaScript | 📅 2024-11-06 - Material UI components
-* [Dash Mosaic](https://github.com/ploomber/mosaic-python#dash-mosaic) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2024-10-04 - Display [Mosaic](https://github.com/uwdata/mosaic) ⭐ 1,359 | 🐛 81 | 🌐 TypeScript | 📅 2026-08-19 plots
+* [Dash Mosaic](https://github.com/ploomber/mosaic-python#dash-mosaic) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2024-10-04 - Display [Mosaic](https://github.com/uwdata/mosaic) ⭐ 1,360 | 🐛 81 | 🌐 TypeScript | 📅 2026-08-19 plots
 * [dash-dual-listbox](https://github.com/vivekvs1/dash-dual-listbox) ⭐ 12 | 🐛 7 | 🌐 Python | 📅 2024-08-31 - Wrapper around react-duallist.
 * [Dash React Simple Maps](https://github.com/ploomber/dash-react-simple-maps) ⭐ 9 | 🐛 0 | 🌐 JavaScript | 📅 2024-10-02 - Create interactive maps
 * [Dash Tabler Icons](https://github.com/ploomber/dash-tabler-icons) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2024-10-02 - Beautiful icons for your Dash apps
@@ -81,10 +81,10 @@ A curated list of awesome Dash (plotly) resources
 
 ## App Examples
 
-* [Uber Rides](https://dash.gallery/dash-uber-rides-demo/) - Displays all of the Uber rides in New York City in 2014. Pandas on the backend filters a 0.5gig datafile. [Source Code.](https://github.com/plotly/dash-sample-apps/tree/main/apps/dash-uber-rides-demo) ⭐ 3,347 | 🐛 59 | 🌐 Jupyter Notebook | 📅 2025-01-15
-* [Drug Discovery](https://dash.gallery/dash-drug-discovery/) - Displays a description of the drug as you hover over points in the graph. [Source Code.](https://github.com/plotly/dash-sample-apps/tree/main/apps/dash-drug-discovery) ⭐ 3,347 | 🐛 59 | 🌐 Jupyter Notebook | 📅 2025-01-15
-* [Live Wind Streaming](https://dash.gallery/dash-wind-streaming/) - Continually queries a SQL database and displays live charts of wind speed and wind direction. [Source Code.](https://github.com/plotly/dash-sample-apps/tree/main/apps/dash-wind-streaming) ⭐ 3,347 | 🐛 59 | 🌐 Jupyter Notebook | 📅 2025-01-15
-* [3D Yield Curve](https://dash.gallery/dash-yield-curve/) - Adapted from NYTimes's excellent [A 3-D View of a Chart That Predicts The Economic Future: The Yield Curve](https://www.nytimes.com/interactive/2015/03/19/upshot/3d-yield-curve-economic-growth.html). [Source Code.](https://github.com/plotly/dash-sample-apps/tree/main/apps/dash-yield-curve) ⭐ 3,347 | 🐛 59 | 🌐 Jupyter Notebook | 📅 2025-01-15
+* [Uber Rides](https://dash.gallery/dash-uber-rides-demo/) - Displays all of the Uber rides in New York City in 2014. Pandas on the backend filters a 0.5gig datafile. [Source Code.](https://github.com/plotly/dash-sample-apps/tree/main/apps/dash-uber-rides-demo) ⭐ 3,345 | 🐛 59 | 🌐 Jupyter Notebook | 📅 2025-01-15
+* [Drug Discovery](https://dash.gallery/dash-drug-discovery/) - Displays a description of the drug as you hover over points in the graph. [Source Code.](https://github.com/plotly/dash-sample-apps/tree/main/apps/dash-drug-discovery) ⭐ 3,345 | 🐛 59 | 🌐 Jupyter Notebook | 📅 2025-01-15
+* [Live Wind Streaming](https://dash.gallery/dash-wind-streaming/) - Continually queries a SQL database and displays live charts of wind speed and wind direction. [Source Code.](https://github.com/plotly/dash-sample-apps/tree/main/apps/dash-wind-streaming) ⭐ 3,345 | 🐛 59 | 🌐 Jupyter Notebook | 📅 2025-01-15
+* [3D Yield Curve](https://dash.gallery/dash-yield-curve/) - Adapted from NYTimes's excellent [A 3-D View of a Chart That Predicts The Economic Future: The Yield Curve](https://www.nytimes.com/interactive/2015/03/19/upshot/3d-yield-curve-economic-growth.html). [Source Code.](https://github.com/plotly/dash-sample-apps/tree/main/apps/dash-yield-curve) ⭐ 3,345 | 🐛 59 | 🌐 Jupyter Notebook | 📅 2025-01-15
 * [Oil and Gas Explorer](https://dash.gallery/dash-oil-and-gas/) - Explore oil and gas production over time and with linked visualisations. [Source Code.](https://github.com/plotly/dash-oil-and-gas-demo) ⚠️ Archived
 * [Visualize Earthquakes with Plotly Dash](https://dash-earthquakes-production-45eyyotfta-ey.a.run.app/) - Great UI and usage of geospatial analytics with Dash. Includes [basic unit tests](https://github.com/jackdbd/dash-earthquakes/tree/master/tests) ⭐ 45 | 🐛 1 | 🌐 CSS | 📅 2022-04-14. [Source Code.](https://github.com/jackdbd/dash-earthquakes) ⭐ 45 | 🐛 1 | 🌐 CSS | 📅 2022-04-14
 * [GutenSearch](https://gutensearch.com/) - Look inside the books of Project Gutenberg. [Source Code.](https://github.com/cordb/gutensearch) ⭐ 8 | 🐛 8 | 🌐 Python | 📅 2021-01-30
@@ -134,4 +134,4 @@ This work is licensed under a Creative Commons Attribution 4.0 International Lic
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._

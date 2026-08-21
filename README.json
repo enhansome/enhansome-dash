@@ -12,10 +12,10 @@
             "archived": false,
             "id": 22670857,
             "language": null,
-            "last_commit": "2026-07-20T07:31:52Z",
+            "last_commit": "2026-08-20T07:58:12Z",
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 74340
+            "stars": 74347
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-01-26T16:36:45Z",
             "owner": "brillout",
             "repo": "awesome-react-components",
-            "stars": 48232
+            "stars": 48237
           }
         },
         {
@@ -192,7 +192,7 @@
             "archived": false,
             "id": 135193052,
             "language": "Python",
-            "last_commit": "2026-08-19T05:18:27Z",
+            "last_commit": "2026-08-20T05:15:56Z",
             "owner": "pikhovkin",
             "repo": "dash-flexbox-grid",
             "stars": 20
@@ -336,7 +336,7 @@
             "last_commit": "2025-01-15T14:18:06Z",
             "owner": "plotly",
             "repo": "dash-sample-apps",
-            "stars": 3347
+            "stars": 3345
           }
         },
         {
@@ -351,7 +351,7 @@
             "last_commit": "2025-01-15T14:18:06Z",
             "owner": "plotly",
             "repo": "dash-sample-apps",
-            "stars": 3347
+            "stars": 3345
           }
         },
         {
@@ -366,7 +366,7 @@
             "last_commit": "2025-01-15T14:18:06Z",
             "owner": "plotly",
             "repo": "dash-sample-apps",
-            "stars": 3347
+            "stars": 3345
           }
         },
         {
@@ -381,7 +381,7 @@
             "last_commit": "2025-01-15T14:18:06Z",
             "owner": "plotly",
             "repo": "dash-sample-apps",
-            "stars": 3347
+            "stars": 3345
           }
         },
         {
@@ -434,7 +434,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T02:31:52.887Z",
+    "last_updated": "2026-08-21T02:37:56.002Z",
     "original_repository": "ucg8j/awesome-dash",
     "original_repository_id": 107999883,
     "original_repository_sha": "506ef0c006bbd56d94c0d275c7311426049eb211",
