@@ -15,7 +15,7 @@
             "last_commit": "2026-08-20T07:58:12Z",
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 74383
+            "stars": 74388
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-01-26T16:36:45Z",
             "owner": "brillout",
             "repo": "awesome-react-components",
-            "stars": 48260
+            "stars": 48264
           }
         },
         {
@@ -434,7 +434,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:02:58.474Z",
+    "last_updated": "2026-08-25T02:32:19.566Z",
     "original_repository": "ucg8j/awesome-dash",
     "original_repository_id": 107999883,
     "original_repository_sha": "506ef0c006bbd56d94c0d275c7311426049eb211",
