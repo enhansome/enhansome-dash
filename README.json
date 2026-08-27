@@ -15,7 +15,7 @@
             "last_commit": "2026-08-20T07:58:12Z",
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 74397
+            "stars": 74407
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-01-26T16:36:45Z",
             "owner": "brillout",
             "repo": "awesome-react-components",
-            "stars": 48268
+            "stars": 48275
           }
         },
         {
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 430076839,
             "language": "Python",
-            "last_commit": "2025-12-06T17:43:19Z",
+            "last_commit": "2026-08-26T12:25:59Z",
             "owner": "predict-idlab",
             "repo": "plotly-resampler",
             "stars": 1209
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-14T00:20:47Z",
             "owner": "snehilvj",
             "repo": "dash-mantine-components",
-            "stars": 726
+            "stars": 727
           }
         },
         {
@@ -192,7 +192,7 @@
             "archived": false,
             "id": 135193052,
             "language": "Python",
-            "last_commit": "2026-08-25T05:15:11Z",
+            "last_commit": "2026-08-27T05:17:22Z",
             "owner": "pikhovkin",
             "repo": "dash-flexbox-grid",
             "stars": 20
@@ -434,9 +434,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T02:40:24.843Z",
-    "original_repository": "ucg8j/awesome-dash",
-    "original_repository_id": 107999883,
+    "last_updated": "2026-08-27T11:13:35.521Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 107999883,
+      "language": "Python",
+      "last_commit": "2024-12-30T09:48:42Z",
+      "owner": "ucg8j",
+      "repo": "awesome-dash",
+      "stars": 2269
+    },
     "original_repository_sha": "506ef0c006bbd56d94c0d275c7311426049eb211",
     "enhanced_repository": "enhansome/enhansome-dash",
     "enhanced_repository_description": null,
