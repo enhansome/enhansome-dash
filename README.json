@@ -10,12 +10,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of awesome things regarding React ecosystem",
+            "homepage": null,
             "id": 22670857,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-20T07:58:12Z",
+            "open_issues": 83,
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 74420
+            "stars": 74426,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "javascript",
+              "react",
+              "react-apps",
+              "react-native",
+              "react-tutorial",
+              "samples",
+              "tutorial",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T12:57:07.763Z"
         },
@@ -26,12 +42,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Curated List of React Components & Libraries.",
+            "homepage": null,
             "id": 61893399,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-01-26T16:36:45Z",
+            "open_issues": 83,
             "owner": "brillout",
             "repo": "awesome-react-components",
-            "stars": 48283
+            "stars": 48288,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "react",
+              "react-component",
+              "react-components"
+            ]
           },
           "first_seen": "2026-08-28T12:57:07.763Z"
         },
@@ -42,12 +69,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Visualize large time series data with plotly.py",
+            "homepage": "https://predict-idlab.github.io/plotly-resampler/latest",
             "id": 430076839,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-26T12:25:59Z",
+            "open_issues": 70,
             "owner": "predict-idlab",
             "repo": "plotly-resampler",
-            "stars": 1209
+            "stars": 1209,
+            "topics": [
+              "data-analysis",
+              "data-science",
+              "data-visualization",
+              "plotly",
+              "plotly-dash",
+              "python",
+              "time-series",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T12:57:07.763Z"
         },
@@ -58,12 +99,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Plotly Dash components based on Mantine React Components",
+            "homepage": "https://www.dash-mantine-components.com",
             "id": 427048846,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T00:20:47Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T16:12:25Z",
+            "open_issues": 11,
             "owner": "snehilvj",
             "repo": "dash-mantine-components",
-            "stars": 727
+            "stars": 727,
+            "topics": [
+              "dash",
+              "mantine",
+              "plotly",
+              "plotly-dash",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T12:57:07.763Z"
         },
@@ -74,12 +126,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "OBSOLETE: now part of https://github.com/plotly/dash",
+            "homepage": "https://dash.plotly.com",
             "id": 61313020,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-03-02T16:52:00Z",
+            "open_issues": 233,
             "owner": "plotly",
             "repo": "dash-core-components",
-            "stars": 267
+            "stars": 267,
+            "topics": [
+              "dash",
+              "plotly-dash"
+            ]
           },
           "first_seen": "2026-08-28T12:57:07.763Z"
         },
@@ -90,12 +150,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "material-ui components for Dash",
+            "homepage": null,
             "id": 112852873,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-11-22T01:19:20Z",
+            "open_issues": 56,
             "owner": "StratoDem",
             "repo": "sd-material-ui",
-            "stars": 194
+            "stars": 194,
+            "topics": [
+              "dash",
+              "material-ui",
+              "plotly-dash",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T12:57:07.763Z"
         },
@@ -106,12 +176,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The alternative upload component for python Dash applications.",
+            "homepage": null,
             "id": 259146427,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-07-19T18:43:41Z",
+            "open_issues": 41,
             "owner": "fohrloop",
             "repo": "dash-uploader",
-            "stars": 154
+            "stars": 154,
+            "topics": [
+              "dash",
+              "plotly-dash",
+              "python",
+              "python-3",
+              "python-dash",
+              "upload-file"
+            ]
           },
           "first_seen": "2026-08-28T12:57:07.763Z"
         },
@@ -122,12 +204,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "OBSOLETE - now part of https://github.com/plotly/dash",
+            "homepage": "https://dash.plotly.com",
             "id": 62158932,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2022-03-02T16:57:19Z",
+            "open_issues": 18,
             "owner": "plotly",
             "repo": "dash-html-components",
-            "stars": 153
+            "stars": 153,
+            "topics": [
+              "dash"
+            ]
           },
           "first_seen": "2026-08-28T12:57:07.763Z"
         },
@@ -138,12 +227,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Analytical Django Apps. No JavaScript Required.",
+            "homepage": null,
             "id": 151003269,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-17T10:03:43Z",
+            "open_issues": 304,
             "owner": "pikhovkin",
             "repo": "dj-plotly-dash",
-            "stars": 60
+            "stars": 60,
+            "topics": [
+              "charting",
+              "dash",
+              "data-visualization",
+              "django",
+              "django-project",
+              "modeling",
+              "no-javascript",
+              "plotly",
+              "plotly-dash",
+              "productivity",
+              "web-app"
+            ]
           },
           "first_seen": "2026-08-28T12:57:07.763Z"
         },
@@ -154,12 +260,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dash component for Vega-Altair charts",
+            "homepage": null,
             "id": 704649791,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-08-11T06:57:22Z",
+            "open_issues": 0,
             "owner": "vega",
             "repo": "dash-vega-components",
-            "stars": 48
+            "stars": 48,
+            "topics": [
+              "altair",
+              "plotly-dash",
+              "vega"
+            ]
           },
           "first_seen": "2026-08-28T12:57:07.763Z"
         },
@@ -170,12 +285,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "My Dash Core Components.",
+            "homepage": null,
             "id": 97875019,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-05-19T04:57:35Z",
+            "open_issues": 4,
             "owner": "jimmybow",
             "repo": "mydcc",
-            "stars": 37
+            "stars": 37,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:07.763Z"
         },
@@ -186,12 +306,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Display PDFs in your Dash apps.",
+            "homepage": "https://dash-pdf.ploomberapp.io",
             "id": 864307752,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2024-10-02T18:08:15Z",
+            "open_issues": 1,
             "owner": "ploomber",
             "repo": "dash-pdf",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "plotly-dash"
+            ]
           },
           "first_seen": "2026-08-28T12:57:07.763Z"
         },
@@ -202,12 +329,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Wrapper around react-flexbox-grid for Plotly Dash",
+            "homepage": null,
             "id": 135193052,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-28T05:15:07Z",
+            "open_issues": 13,
             "owner": "pikhovkin",
             "repo": "dash-flexbox-grid",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "css-grid",
+              "dash",
+              "flexbox-grid",
+              "plotly",
+              "plotly-dash",
+              "react",
+              "react-components",
+              "reactjs"
+            ]
           },
           "first_seen": "2026-08-28T12:57:07.763Z"
         },
@@ -218,12 +359,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MUI for Dash",
+            "homepage": "https://dash-mui.ploomberapp.io",
             "id": 860983970,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2024-11-06T21:38:44Z",
+            "open_issues": 4,
             "owner": "ploomber",
             "repo": "dash-mui",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "plotly-dash"
+            ]
           },
           "first_seen": "2026-08-28T12:57:07.763Z"
         },
@@ -234,12 +382,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python bindings for Mosaic.",
+            "homepage": null,
             "id": 866584137,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-10-04T15:10:49Z",
+            "open_issues": 0,
             "owner": "ploomber",
             "repo": "mosaic-python",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "plotly-dash",
+              "streamlit"
+            ]
           },
           "first_seen": "2026-08-28T12:57:07.763Z"
         },
@@ -250,12 +406,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dual listbox for Dash. Original component: https://rawgit.com/jyotirmaybanerjee/react-duallist/master/example/examples.html#",
+            "homepage": null,
             "id": 149683576,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-08-31T15:11:07Z",
+            "open_issues": 7,
             "owner": "vivekvs1",
             "repo": "dash-dual-listbox",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:07.763Z"
         },
@@ -266,12 +427,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React Simple Map for Dash",
+            "homepage": "https://dash-react-simple-maps.ploomberapp.io/",
             "id": 860703616,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2024-10-02T16:16:40Z",
+            "open_issues": 0,
             "owner": "ploomber",
             "repo": "dash-react-simple-maps",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "plotly-dash"
+            ]
           },
           "first_seen": "2026-08-28T12:57:07.763Z"
         },
@@ -282,12 +450,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Beautiful icons for your Dash apps.",
+            "homepage": "https://dash-tabler-icons.ploomberapp.io",
             "id": 863882470,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-10-02T16:21:32Z",
+            "open_issues": 0,
             "owner": "ploomber",
             "repo": "dash-tabler-icons",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "plotly-dash"
+            ]
           },
           "first_seen": "2026-08-28T12:57:07.763Z"
         },
@@ -298,12 +473,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Range Slider Dash component",
+            "homepage": null,
             "id": 107199869,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-04-17T14:34:04Z",
+            "open_issues": 1,
             "owner": "StratoDem",
             "repo": "sd-range-slider",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:07.763Z"
         },
@@ -314,12 +494,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React-color in Dash Original component: https://casesandberg.github.io/react-color/",
+            "homepage": null,
             "id": 149646847,
             "language": "Python",
+            "license": null,
             "last_commit": "2018-09-20T17:37:14Z",
+            "open_issues": 0,
             "owner": "vivekvs1",
             "repo": "dash-color-picker",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:07.763Z"
         },
@@ -330,12 +515,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Syntax highlighting for code snippets in your Dash apps.",
+            "homepage": "https://ploomber.io",
             "id": 863186474,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2024-10-02T16:17:51Z",
+            "open_issues": 0,
             "owner": "ploomber",
             "repo": "dash-react-syntax-highlighter",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "dash-plotly"
+            ]
           },
           "first_seen": "2026-08-28T12:57:07.763Z"
         }
@@ -352,12 +544,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source demos hosted on Dash Gallery",
+            "homepage": "https://dash.gallery",
             "id": 180372498,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2025-01-15T14:18:06Z",
+            "open_issues": 59,
             "owner": "plotly",
             "repo": "dash-sample-apps",
-            "stars": 3344
+            "stars": 3343,
+            "topics": [
+              "dash",
+              "plotly",
+              "plotly-dash"
+            ]
           },
           "first_seen": "2026-08-28T12:57:07.763Z"
         },
@@ -368,12 +569,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source demos hosted on Dash Gallery",
+            "homepage": "https://dash.gallery",
             "id": 180372498,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2025-01-15T14:18:06Z",
+            "open_issues": 59,
             "owner": "plotly",
             "repo": "dash-sample-apps",
-            "stars": 3344
+            "stars": 3343,
+            "topics": [
+              "dash",
+              "plotly",
+              "plotly-dash"
+            ]
           },
           "first_seen": "2026-08-28T12:57:07.763Z"
         },
@@ -384,12 +594,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source demos hosted on Dash Gallery",
+            "homepage": "https://dash.gallery",
             "id": 180372498,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2025-01-15T14:18:06Z",
+            "open_issues": 59,
             "owner": "plotly",
             "repo": "dash-sample-apps",
-            "stars": 3344
+            "stars": 3343,
+            "topics": [
+              "dash",
+              "plotly",
+              "plotly-dash"
+            ]
           },
           "first_seen": "2026-08-28T12:57:07.763Z"
         },
@@ -400,12 +619,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source demos hosted on Dash Gallery",
+            "homepage": "https://dash.gallery",
             "id": 180372498,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2025-01-15T14:18:06Z",
+            "open_issues": 59,
             "owner": "plotly",
             "repo": "dash-sample-apps",
-            "stars": 3344
+            "stars": 3343,
+            "topics": [
+              "dash",
+              "plotly",
+              "plotly-dash"
+            ]
           },
           "first_seen": "2026-08-28T12:57:07.763Z"
         },
@@ -416,12 +644,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Dash Demo App - New York Oil and Gas",
+            "homepage": "https://dash-gallery.plotly.host/dash-oil-and-gas/",
             "id": 94473512,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-04-17T00:52:27Z",
+            "open_issues": 8,
             "owner": "plotly",
             "repo": "dash-oil-and-gas-demo",
-            "stars": 201
+            "stars": 201,
+            "topics": [
+              "dash",
+              "data-science",
+              "data-visualization",
+              "energy",
+              "plotly",
+              "python",
+              "technical-computing"
+            ]
           },
           "first_seen": "2026-08-28T12:57:07.763Z"
         },
@@ -432,12 +673,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Plotly Dash application showing earthquake data from the USGS website",
+            "homepage": "https://dash-earthquakes-production-45eyyotfta-ey.a.run.app",
             "id": 96701871,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2022-04-14T21:50:51Z",
+            "open_issues": 1,
             "owner": "jackdbd",
             "repo": "dash-earthquakes",
-            "stars": 45
+            "stars": 45,
+            "topics": [
+              "dash",
+              "dashboard",
+              "mapbox",
+              "plotly",
+              "usgs"
+            ]
           },
           "first_seen": "2026-08-28T12:57:07.763Z"
         },
@@ -448,12 +700,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Search engine for Project Gutenberg books",
+            "homepage": null,
             "id": 332710189,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-01-30T10:02:48Z",
+            "open_issues": 8,
             "owner": "cordb",
             "repo": "gutensearch",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:07.763Z"
         }
@@ -462,15 +719,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T12:57:07.763Z",
+    "last_updated": "2026-08-29T04:24:56.442Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome Dash (plotly) resources",
+      "homepage": null,
       "id": 107999883,
       "language": "Python",
+      "license": "CC0-1.0",
       "last_commit": "2024-12-30T09:48:42Z",
+      "open_issues": 1,
       "owner": "ucg8j",
       "repo": "awesome-dash",
-      "stars": 2268
+      "stars": 2268,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "plotly",
+        "python"
+      ]
     },
     "original_repository_sha": "506ef0c006bbd56d94c0d275c7311426049eb211",
     "enhanced_repository": "enhansome/enhansome-dash",
