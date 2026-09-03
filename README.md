@@ -48,21 +48,21 @@ A curated list of awesome Dash (plotly) resources
 
 ## Component Libraries
 
-* [Awesome React](https://github.com/enaqx/awesome-react) ⭐ 74,463 | 🐛 89 | 📅 2026-08-20 - Helpful resources for developing React.js components.
-* [Awesome React Components](https://github.com/brillout/awesome-react-components) ⭐ 48,314 | 🐛 87 | 📅 2026-01-26 - Catalog of React.js components potentially interesting to be wrapped into Dash components.
+* [Awesome React](https://github.com/enaqx/awesome-react) ⭐ 74,472 | 🐛 89 | 📅 2026-08-20 - Helpful resources for developing React.js components.
+* [Awesome React Components](https://github.com/brillout/awesome-react-components) ⭐ 48,320 | 🐛 87 | 📅 2026-01-26 - Catalog of React.js components potentially interesting to be wrapped into Dash components.
 * [plotly-resampler](https://github.com/predict-idlab/plotly-resampler) ⭐ 1,209 | 🐛 70 | 🌐 Python | 📅 2026-08-26 - Wrapper for plotly figures that adds data downsampling (aggregating) functionality, enabling the visualization of large datasets.
 * [Dash Mantine Components](https://github.com/snehilvj/dash-mantine-components) ⭐ 727 | 🐛 11 | 🌐 TypeScript | 📅 2026-08-28 - Collection of 40+ Dash components based on Mantine React Components library.
 * [Dash Core Components](https://github.com/plotly/dash-core-components) ⚠️ Archived
 * [sd-material-ui](https://github.com/StratoDem/sd-material-ui) ⚠️ Archived - StratoDem Analytics implementations of material-ui components for Dash.
 * [dash-uploader](https://github.com/np-8/dash-uploader) ⚠️ Archived - Upload component for Dash. Supports large data files.
 * [Dash HTML Components](https://github.com/plotly/dash-html-components) ⚠️ Archived
-* [dj-plotly-dash](https://github.com/pikhovkin/dj-plotly-dash) ⭐ 60 | 🐛 305 | 🌐 JavaScript | 📅 2026-08-29 - Plotly Dash fork for Django.
+* [dj-plotly-dash](https://github.com/pikhovkin/dj-plotly-dash) ⭐ 60 | 🐛 306 | 🌐 JavaScript | 📅 2026-09-03 - Plotly Dash fork for Django.
 * [dash-vega-components](https://github.com/altair-viz/dash-vega-components) ⭐ 48 | 🐛 0 | 🌐 Python | 📅 2024-08-11 - Dash component for Vega-Altair, Vega-Lite, and Vega charts.
 * [mydcc](https://github.com/jimmybow/mydcc) ⭐ 37 | 🐛 4 | 🌐 JavaScript | 📅 2018-05-19 - Extension of Dash Core Components.
 * [Dash PDF](https://github.com/ploomber/dash-pdf) ⭐ 24 | 🐛 1 | 🌐 JavaScript | 📅 2024-10-02 - Display inline PDFs
-* [dash-flexbox-grid](https://github.com/pikhovkin/dash-flexbox-grid) ⭐ 20 | 🐛 13 | 🌐 Python | 📅 2026-09-02 - Wrapper around react-flexbox-grid for Plotly Dash.
+* [dash-flexbox-grid](https://github.com/pikhovkin/dash-flexbox-grid) ⭐ 20 | 🐛 13 | 🌐 Python | 📅 2026-09-03 - Wrapper around react-flexbox-grid for Plotly Dash.
 * [Dash MUI](https://github.com/ploomber/dash-mui) ⭐ 19 | 🐛 4 | 🌐 JavaScript | 📅 2024-11-06 - Material UI components
-* [Dash Mosaic](https://github.com/ploomber/mosaic-python#dash-mosaic) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2024-10-04 - Display [Mosaic](https://github.com/uwdata/mosaic) ⭐ 1,367 | 🐛 84 | 🌐 TypeScript | 📅 2026-09-01 plots
+* [Dash Mosaic](https://github.com/ploomber/mosaic-python#dash-mosaic) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2024-10-04 - Display [Mosaic](https://github.com/uwdata/mosaic) ⭐ 1,367 | 🐛 119 | 🌐 TypeScript | 📅 2026-09-03 plots
 * [dash-dual-listbox](https://github.com/vivekvs1/dash-dual-listbox) ⭐ 12 | 🐛 7 | 🌐 Python | 📅 2024-08-31 - Wrapper around react-duallist.
 * [Dash React Simple Maps](https://github.com/ploomber/dash-react-simple-maps) ⭐ 9 | 🐛 0 | 🌐 JavaScript | 📅 2024-10-02 - Create interactive maps
 * [Dash Tabler Icons](https://github.com/ploomber/dash-tabler-icons) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2024-10-02 - Beautiful icons for your Dash apps
@@ -134,4 +134,4 @@ This work is licensed under a Creative Commons Attribution 4.0 International Lic
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
