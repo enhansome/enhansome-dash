@@ -19,7 +19,7 @@
             "open_issues": 11,
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 74619,
+            "stars": 74632,
             "topics": [
               "awesome",
               "awesome-list",
@@ -51,7 +51,7 @@
             "open_issues": 92,
             "owner": "brillout",
             "repo": "awesome-react-components",
-            "stars": 48432,
+            "stars": 48440,
             "topics": [
               "awesome",
               "awesome-list",
@@ -334,7 +334,7 @@
             "id": 135193052,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-17T05:17:12Z",
+            "last_commit": "2026-09-18T05:16:32Z",
             "open_issues": 13,
             "owner": "pikhovkin",
             "repo": "dash-flexbox-grid",
@@ -553,7 +553,7 @@
             "open_issues": 65,
             "owner": "plotly",
             "repo": "dash-sample-apps",
-            "stars": 3339,
+            "stars": 3338,
             "topics": [
               "dash",
               "plotly",
@@ -578,7 +578,7 @@
             "open_issues": 65,
             "owner": "plotly",
             "repo": "dash-sample-apps",
-            "stars": 3339,
+            "stars": 3338,
             "topics": [
               "dash",
               "plotly",
@@ -603,7 +603,7 @@
             "open_issues": 65,
             "owner": "plotly",
             "repo": "dash-sample-apps",
-            "stars": 3339,
+            "stars": 3338,
             "topics": [
               "dash",
               "plotly",
@@ -628,7 +628,7 @@
             "open_issues": 65,
             "owner": "plotly",
             "repo": "dash-sample-apps",
-            "stars": 3339,
+            "stars": 3338,
             "topics": [
               "dash",
               "plotly",
@@ -719,7 +719,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T06:11:03.066Z",
+    "last_updated": "2026-09-18T05:59:47.909Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Dash (plotly) resources",
