@@ -16,10 +16,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-09-04T01:13:20Z",
-            "open_issues": 12,
+            "open_issues": 13,
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 74653,
+            "stars": 74669,
             "topics": [
               "awesome",
               "awesome-list",
@@ -51,7 +51,7 @@
             "open_issues": 92,
             "owner": "brillout",
             "repo": "awesome-react-components",
-            "stars": 48450,
+            "stars": 48458,
             "topics": [
               "awesome",
               "awesome-list",
@@ -108,7 +108,7 @@
             "open_issues": 12,
             "owner": "snehilvj",
             "repo": "dash-mantine-components",
-            "stars": 728,
+            "stars": 729,
             "topics": [
               "dash",
               "mantine",
@@ -553,7 +553,7 @@
             "open_issues": 65,
             "owner": "plotly",
             "repo": "dash-sample-apps",
-            "stars": 3338,
+            "stars": 3340,
             "topics": [
               "dash",
               "plotly",
@@ -578,7 +578,7 @@
             "open_issues": 65,
             "owner": "plotly",
             "repo": "dash-sample-apps",
-            "stars": 3338,
+            "stars": 3340,
             "topics": [
               "dash",
               "plotly",
@@ -603,7 +603,7 @@
             "open_issues": 65,
             "owner": "plotly",
             "repo": "dash-sample-apps",
-            "stars": 3338,
+            "stars": 3340,
             "topics": [
               "dash",
               "plotly",
@@ -628,7 +628,7 @@
             "open_issues": 65,
             "owner": "plotly",
             "repo": "dash-sample-apps",
-            "stars": 3338,
+            "stars": 3340,
             "topics": [
               "dash",
               "plotly",
@@ -719,7 +719,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T06:22:17.258Z",
+    "last_updated": "2026-09-21T06:27:11.669Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Dash (plotly) resources",
@@ -731,7 +731,7 @@
       "open_issues": 1,
       "owner": "ucg8j",
       "repo": "awesome-dash",
-      "stars": 2270,
+      "stars": 2271,
       "topics": [
         "awesome",
         "awesome-list",
