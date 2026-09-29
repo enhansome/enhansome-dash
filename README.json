@@ -16,10 +16,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-09-04T01:13:20Z",
-            "open_issues": 18,
+            "open_issues": 19,
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 74741,
+            "stars": 74744,
             "topics": [
               "awesome",
               "awesome-list",
@@ -48,10 +48,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-01-26T16:36:45Z",
-            "open_issues": 93,
+            "open_issues": 94,
             "owner": "brillout",
             "repo": "awesome-react-components",
-            "stars": 48496,
+            "stars": 48506,
             "topics": [
               "awesome",
               "awesome-list",
@@ -334,7 +334,7 @@
             "id": 135193052,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-27T05:16:55Z",
+            "last_commit": "2026-09-29T05:20:36Z",
             "open_issues": 13,
             "owner": "pikhovkin",
             "repo": "dash-flexbox-grid",
@@ -719,7 +719,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T07:01:18.590Z",
+    "last_updated": "2026-09-29T06:59:27.419Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Dash (plotly) resources",
