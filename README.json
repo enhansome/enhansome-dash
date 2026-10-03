@@ -16,10 +16,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-09-04T01:13:20Z",
-            "open_issues": 23,
+            "open_issues": 17,
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 74771,
+            "stars": 74782,
             "topics": [
               "awesome",
               "awesome-list",
@@ -48,10 +48,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-01-26T16:36:45Z",
-            "open_issues": 95,
+            "open_issues": 98,
             "owner": "brillout",
             "repo": "awesome-react-components",
-            "stars": 48529,
+            "stars": 48537,
             "topics": [
               "awesome",
               "awesome-list",
@@ -122,7 +122,7 @@
         {
           "node_type": "item",
           "title": "Dash Core Components",
-          "description": null,
+          "description": "plotly/dash-core-components",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -200,7 +200,7 @@
         {
           "node_type": "item",
           "title": "Dash HTML Components",
-          "description": null,
+          "description": "plotly/dash-html-components",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -232,8 +232,8 @@
             "id": 151003269,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-30T08:06:53Z",
-            "open_issues": 311,
+            "last_commit": "2026-10-03T01:27:47Z",
+            "open_issues": 312,
             "owner": "pikhovkin",
             "repo": "dj-plotly-dash",
             "stars": 60,
@@ -334,7 +334,7 @@
             "id": 135193052,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-02T05:20:34Z",
+            "last_commit": "2026-10-03T01:26:46Z",
             "open_issues": 13,
             "owner": "pikhovkin",
             "repo": "dash-flexbox-grid",
@@ -719,7 +719,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T07:03:12.986Z",
+    "last_updated": "2026-10-03T04:40:23.657Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Dash (plotly) resources",
