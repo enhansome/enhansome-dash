@@ -16,10 +16,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-09-04T01:13:20Z",
-            "open_issues": 17,
+            "open_issues": 18,
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 74783,
+            "stars": 74792,
             "topics": [
               "awesome",
               "awesome-list",
@@ -51,7 +51,7 @@
             "open_issues": 98,
             "owner": "brillout",
             "repo": "awesome-react-components",
-            "stars": 48538,
+            "stars": 48547,
             "topics": [
               "awesome",
               "awesome-list",
@@ -105,10 +105,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-27T23:33:07Z",
-            "open_issues": 11,
+            "open_issues": 12,
             "owner": "snehilvj",
             "repo": "dash-mantine-components",
-            "stars": 730,
+            "stars": 729,
             "topics": [
               "dash",
               "mantine",
@@ -159,7 +159,7 @@
             "open_issues": 56,
             "owner": "StratoDem",
             "repo": "sd-material-ui",
-            "stars": 194,
+            "stars": 193,
             "topics": [
               "dash",
               "material-ui",
@@ -269,7 +269,7 @@
             "open_issues": 0,
             "owner": "vega",
             "repo": "dash-vega-components",
-            "stars": 48,
+            "stars": 47,
             "topics": [
               "altair",
               "plotly-dash",
@@ -719,7 +719,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T06:36:43.229Z",
+    "last_updated": "2026-10-04T07:00:04.464Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Dash (plotly) resources",
@@ -731,7 +731,7 @@
       "open_issues": 1,
       "owner": "ucg8j",
       "repo": "awesome-dash",
-      "stars": 2272,
+      "stars": 2271,
       "topics": [
         "awesome",
         "awesome-list",
