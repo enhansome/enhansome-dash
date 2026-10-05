@@ -19,7 +19,7 @@
             "open_issues": 18,
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 74792,
+            "stars": 74800,
             "topics": [
               "awesome",
               "awesome-list",
@@ -51,7 +51,7 @@
             "open_issues": 98,
             "owner": "brillout",
             "repo": "awesome-react-components",
-            "stars": 48547,
+            "stars": 48553,
             "topics": [
               "awesome",
               "awesome-list",
@@ -74,11 +74,11 @@
             "id": 430076839,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-26T12:25:59Z",
-            "open_issues": 70,
+            "last_commit": "2026-10-04T18:10:35Z",
+            "open_issues": 60,
             "owner": "predict-idlab",
             "repo": "plotly-resampler",
-            "stars": 1210,
+            "stars": 1209,
             "topics": [
               "data-analysis",
               "data-science",
@@ -719,7 +719,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T07:00:04.464Z",
+    "last_updated": "2026-10-05T07:09:05.133Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Dash (plotly) resources",
