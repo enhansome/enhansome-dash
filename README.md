@@ -48,8 +48,8 @@ A curated list of awesome Dash (plotly) resources
 
 ## Component Libraries
 
-* [Awesome React](https://github.com/enaqx/awesome-react) ⭐ 74,809 | 🐛 18 | 📅 2026-09-04 - Helpful resources for developing React.js components.
-* [Awesome React Components](https://github.com/brillout/awesome-react-components) ⭐ 48,558 | 🐛 100 | 📅 2026-01-26 - Catalog of React.js components potentially interesting to be wrapped into Dash components.
+* [Awesome React](https://github.com/enaqx/awesome-react) ⭐ 74,813 | 🐛 18 | 📅 2026-09-04 - Helpful resources for developing React.js components.
+* [Awesome React Components](https://github.com/brillout/awesome-react-components) ⭐ 48,560 | 🐛 100 | 📅 2026-01-26 - Catalog of React.js components potentially interesting to be wrapped into Dash components.
 * [plotly-resampler](https://github.com/predict-idlab/plotly-resampler) ⭐ 1,209 | 🐛 60 | 🌐 Python | 📅 2026-10-04 - Wrapper for plotly figures that adds data downsampling (aggregating) functionality, enabling the visualization of large datasets.
 * [Dash Mantine Components](https://github.com/snehilvj/dash-mantine-components) ⭐ 729 | 🐛 12 | 🌐 TypeScript | 📅 2026-09-27 - Collection of 40+ Dash components based on Mantine React Components library.
 * [Dash Core Components](https://github.com/plotly/dash-core-components) ⚠️ Archived

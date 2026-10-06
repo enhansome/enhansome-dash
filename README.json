@@ -19,7 +19,7 @@
             "open_issues": 18,
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 74809,
+            "stars": 74813,
             "topics": [
               "awesome",
               "awesome-list",
@@ -51,7 +51,7 @@
             "open_issues": 100,
             "owner": "brillout",
             "repo": "awesome-react-components",
-            "stars": 48558,
+            "stars": 48560,
             "topics": [
               "awesome",
               "awesome-list",
@@ -719,7 +719,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T07:38:24.550Z",
+    "last_updated": "2026-10-06T11:01:35.774Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Dash (plotly) resources",
