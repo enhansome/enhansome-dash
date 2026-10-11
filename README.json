@@ -19,7 +19,7 @@
             "open_issues": 22,
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 74841,
+            "stars": 74849,
             "topics": [
               "awesome",
               "awesome-list",
@@ -48,10 +48,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-01-26T16:36:45Z",
-            "open_issues": 99,
+            "open_issues": 101,
             "owner": "brillout",
             "repo": "awesome-react-components",
-            "stars": 48574,
+            "stars": 48584,
             "topics": [
               "awesome",
               "awesome-list",
@@ -108,7 +108,7 @@
             "open_issues": 12,
             "owner": "snehilvj",
             "repo": "dash-mantine-components",
-            "stars": 729,
+            "stars": 728,
             "topics": [
               "dash",
               "mantine",
@@ -171,34 +171,6 @@
         },
         {
           "node_type": "item",
-          "title": "dash-uploader",
-          "description": "Upload component for Dash. Supports large data files.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "The alternative upload component for python Dash applications.",
-            "homepage": null,
-            "id": 259146427,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2025-07-19T18:43:41Z",
-            "open_issues": 41,
-            "owner": "fohrloop",
-            "repo": "dash-uploader",
-            "stars": 154,
-            "topics": [
-              "dash",
-              "plotly-dash",
-              "python",
-              "python-3",
-              "python-dash",
-              "upload-file"
-            ]
-          },
-          "first_seen": "2026-08-28T12:57:07.763Z"
-        },
-        {
-          "node_type": "item",
           "title": "Dash HTML Components",
           "description": "plotly/dash-html-components",
           "children": [],
@@ -216,6 +188,34 @@
             "stars": 153,
             "topics": [
               "dash"
+            ]
+          },
+          "first_seen": "2026-08-28T12:57:07.763Z"
+        },
+        {
+          "node_type": "item",
+          "title": "dash-uploader",
+          "description": "Upload component for Dash. Supports large data files.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "description": "The alternative upload component for python Dash applications.",
+            "homepage": null,
+            "id": 259146427,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2025-07-19T18:43:41Z",
+            "open_issues": 41,
+            "owner": "fohrloop",
+            "repo": "dash-uploader",
+            "stars": 153,
+            "topics": [
+              "dash",
+              "plotly-dash",
+              "python",
+              "python-3",
+              "python-dash",
+              "upload-file"
             ]
           },
           "first_seen": "2026-08-28T12:57:07.763Z"
@@ -269,7 +269,7 @@
             "open_issues": 0,
             "owner": "vega",
             "repo": "dash-vega-components",
-            "stars": 47,
+            "stars": 46,
             "topics": [
               "altair",
               "plotly-dash",
@@ -334,7 +334,7 @@
             "id": 135193052,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-10T05:23:33Z",
+            "last_commit": "2026-10-11T05:20:40Z",
             "open_issues": 13,
             "owner": "pikhovkin",
             "repo": "dash-flexbox-grid",
@@ -719,7 +719,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T07:14:01.003Z",
+    "last_updated": "2026-10-11T07:16:43.369Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Dash (plotly) resources",
