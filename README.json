@@ -16,10 +16,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-09-04T01:13:20Z",
-            "open_issues": 22,
+            "open_issues": 23,
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 74849,
+            "stars": 74856,
             "topics": [
               "awesome",
               "awesome-list",
@@ -51,7 +51,7 @@
             "open_issues": 101,
             "owner": "brillout",
             "repo": "awesome-react-components",
-            "stars": 48584,
+            "stars": 48601,
             "topics": [
               "awesome",
               "awesome-list",
@@ -78,7 +78,7 @@
             "open_issues": 62,
             "owner": "predict-idlab",
             "repo": "plotly-resampler",
-            "stars": 1211,
+            "stars": 1212,
             "topics": [
               "data-analysis",
               "data-science",
@@ -232,8 +232,8 @@
             "id": 151003269,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-08T12:05:05Z",
-            "open_issues": 314,
+            "last_commit": "2026-10-11T11:26:45Z",
+            "open_issues": 315,
             "owner": "pikhovkin",
             "repo": "dj-plotly-dash",
             "stars": 60,
@@ -334,7 +334,7 @@
             "id": 135193052,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-11T05:20:40Z",
+            "last_commit": "2026-10-12T05:18:05Z",
             "open_issues": 13,
             "owner": "pikhovkin",
             "repo": "dash-flexbox-grid",
@@ -719,7 +719,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T07:16:43.369Z",
+    "last_updated": "2026-10-12T07:26:15.059Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Dash (plotly) resources",
