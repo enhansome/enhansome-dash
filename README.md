@@ -48,10 +48,10 @@ A curated list of awesome Dash (plotly) resources
 
 ## Component Libraries
 
-* [Awesome React](https://github.com/enaqx/awesome-react) ⭐ 74,856 | 🐛 23 | 📅 2026-09-04 - Helpful resources for developing React.js components.
-* [Awesome React Components](https://github.com/brillout/awesome-react-components) ⭐ 48,601 | 🐛 101 | 📅 2026-01-26 - Catalog of React.js components potentially interesting to be wrapped into Dash components.
+* [Awesome React](https://github.com/enaqx/awesome-react) ⭐ 74,879 | 🐛 23 | 📅 2026-09-04 - Helpful resources for developing React.js components.
+* [Awesome React Components](https://github.com/brillout/awesome-react-components) ⭐ 48,616 | 🐛 102 | 📅 2026-01-26 - Catalog of React.js components potentially interesting to be wrapped into Dash components.
 * [plotly-resampler](https://github.com/predict-idlab/plotly-resampler) ⭐ 1,212 | 🐛 62 | 🌐 Python | 📅 2026-10-04 - Wrapper for plotly figures that adds data downsampling (aggregating) functionality, enabling the visualization of large datasets.
-* [Dash Mantine Components](https://github.com/snehilvj/dash-mantine-components) ⭐ 728 | 🐛 12 | 🌐 TypeScript | 📅 2026-09-27 - Collection of 40+ Dash components based on Mantine React Components library.
+* [Dash Mantine Components](https://github.com/snehilvj/dash-mantine-components) ⭐ 728 | 🐛 11 | 🌐 TypeScript | 📅 2026-09-27 - Collection of 40+ Dash components based on Mantine React Components library.
 * [Dash Core Components](https://github.com/plotly/dash-core-components) ⚠️ Archived
 * [sd-material-ui](https://github.com/StratoDem/sd-material-ui) ⚠️ Archived - StratoDem Analytics implementations of material-ui components for Dash.
 * [Dash HTML Components](https://github.com/plotly/dash-html-components) ⚠️ Archived
@@ -59,16 +59,16 @@ A curated list of awesome Dash (plotly) resources
 * [dj-plotly-dash](https://github.com/pikhovkin/dj-plotly-dash) ⭐ 60 | 🐛 315 | 🌐 JavaScript | 📅 2026-10-11 - Plotly Dash fork for Django.
 * [dash-vega-components](https://github.com/altair-viz/dash-vega-components) ⭐ 46 | 🐛 0 | 🌐 Python | 📅 2024-08-11 - Dash component for Vega-Altair, Vega-Lite, and Vega charts.
 * [mydcc](https://github.com/jimmybow/mydcc) ⭐ 37 | 🐛 4 | 🌐 JavaScript | 📅 2018-05-19 - Extension of Dash Core Components.
-* [Dash PDF](https://github.com/ploomber/dash-pdf) ⭐ 24 | 🐛 1 | 🌐 JavaScript | 📅 2024-10-02 - Display inline PDFs
-* [dash-flexbox-grid](https://github.com/pikhovkin/dash-flexbox-grid) ⭐ 20 | 🐛 13 | 🌐 Python | 📅 2026-10-12 - Wrapper around react-flexbox-grid for Plotly Dash.
-* [Dash MUI](https://github.com/ploomber/dash-mui) ⭐ 19 | 🐛 4 | 🌐 JavaScript | 📅 2024-11-06 - Material UI components
-* [Dash Mosaic](https://github.com/ploomber/mosaic-python#dash-mosaic) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2024-10-04 - Display [Mosaic](https://github.com/uwdata/mosaic) ⭐ 1,394 | 🐛 145 | 🌐 TypeScript | 📅 2026-10-12 plots
+* [Dash PDF](https://github.com/ploomber/dash-pdf) ⭐ 25 | 🐛 1 | 🌐 JavaScript | 📅 2024-10-02 - Display inline PDFs
+* [Dash MUI](https://github.com/ploomber/dash-mui) ⭐ 20 | 🐛 4 | 🌐 JavaScript | 📅 2024-11-06 - Material UI components
+* [dash-flexbox-grid](https://github.com/pikhovkin/dash-flexbox-grid) ⭐ 20 | 🐛 13 | 🌐 Python | 📅 2026-10-13 - Wrapper around react-flexbox-grid for Plotly Dash.
+* [Dash Mosaic](https://github.com/ploomber/mosaic-python#dash-mosaic) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2024-10-04 - Display [Mosaic](https://github.com/uwdata/mosaic) ⭐ 1,394 | 🐛 146 | 🌐 TypeScript | 📅 2026-10-13 plots
 * [dash-dual-listbox](https://github.com/vivekvs1/dash-dual-listbox) ⭐ 12 | 🐛 7 | 🌐 Python | 📅 2024-08-31 - Wrapper around react-duallist.
 * [Dash React Simple Maps](https://github.com/ploomber/dash-react-simple-maps) ⭐ 9 | 🐛 0 | 🌐 JavaScript | 📅 2024-10-02 - Create interactive maps
 * [Dash Tabler Icons](https://github.com/ploomber/dash-tabler-icons) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2024-10-02 - Beautiful icons for your Dash apps
 * [sd-range-slider](https://github.com/StratoDem/sd-range-slider) ⭐ 3 | 🐛 1 | 🌐 JavaScript | 📅 2026-04-17 - Range Slider Dash component.
+* [Dash React Syntax Highlighter](https://github.com/ploomber/dash-react-syntax-highlighter) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2024-10-02 - Display code snippets with a copy button
 * [dash-color-picker](https://github.com/vivekvs1/dash-color-picker) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2018-09-20 - Wrapper around react-color.
-* [Dash React Syntax Highlighter](https://github.com/ploomber/dash-react-syntax-highlighter) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2024-10-02 - Display code snippets with a copy button
 * [Dash Canvas Components](https://dash.plotly.com/canvas) - Module for image annotation and image processing using
   Dash.
 * [Dash Cytoscape Component](https://dash.plotly.com/cytoscape) - Graph visualization component for creating easily
@@ -134,4 +134,4 @@ This work is licensed under a Creative Commons Attribution 4.0 International Lic
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
