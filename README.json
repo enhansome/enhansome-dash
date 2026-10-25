@@ -16,10 +16,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-09-04T01:13:20Z",
-            "open_issues": 29,
+            "open_issues": 30,
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 75030,
+            "stars": 75045,
             "topics": [
               "awesome",
               "awesome-list",
@@ -48,10 +48,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-01-26T16:36:45Z",
-            "open_issues": 111,
+            "open_issues": 113,
             "owner": "brillout",
             "repo": "awesome-react-components",
-            "stars": 48717,
+            "stars": 48729,
             "topics": [
               "awesome",
               "awesome-list",
@@ -104,11 +104,11 @@
             "id": 427048846,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-22T17:39:30Z",
-            "open_issues": 11,
+            "last_commit": "2026-10-24T17:44:29Z",
+            "open_issues": 12,
             "owner": "snehilvj",
             "repo": "dash-mantine-components",
-            "stars": 729,
+            "stars": 730,
             "topics": [
               "dash",
               "mantine",
@@ -357,7 +357,7 @@
             "id": 135193052,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-24T05:21:49Z",
+            "last_commit": "2026-10-25T05:17:25Z",
             "open_issues": 13,
             "owner": "pikhovkin",
             "repo": "dash-flexbox-grid",
@@ -553,7 +553,7 @@
             "open_issues": 65,
             "owner": "plotly",
             "repo": "dash-sample-apps",
-            "stars": 3342,
+            "stars": 3343,
             "topics": [
               "dash",
               "plotly",
@@ -578,7 +578,7 @@
             "open_issues": 65,
             "owner": "plotly",
             "repo": "dash-sample-apps",
-            "stars": 3342,
+            "stars": 3343,
             "topics": [
               "dash",
               "plotly",
@@ -603,7 +603,7 @@
             "open_issues": 65,
             "owner": "plotly",
             "repo": "dash-sample-apps",
-            "stars": 3342,
+            "stars": 3343,
             "topics": [
               "dash",
               "plotly",
@@ -628,7 +628,7 @@
             "open_issues": 65,
             "owner": "plotly",
             "repo": "dash-sample-apps",
-            "stars": 3342,
+            "stars": 3343,
             "topics": [
               "dash",
               "plotly",
@@ -719,7 +719,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T05:58:20.727Z",
+    "last_updated": "2026-10-25T06:13:21.892Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Dash (plotly) resources",
