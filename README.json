@@ -16,10 +16,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-09-04T01:13:20Z",
-            "open_issues": 36,
+            "open_issues": 37,
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 75238,
+            "stars": 75250,
             "topics": [
               "awesome",
               "awesome-list",
@@ -48,10 +48,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-01-26T16:36:45Z",
-            "open_issues": 126,
+            "open_issues": 127,
             "owner": "brillout",
             "repo": "awesome-react-components",
-            "stars": 48846,
+            "stars": 48850,
             "topics": [
               "awesome",
               "awesome-list",
@@ -104,7 +104,7 @@
             "id": 427048846,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-08T16:25:31Z",
+            "last_commit": "2026-11-11T14:20:49Z",
             "open_issues": 15,
             "owner": "snehilvj",
             "repo": "dash-mantine-components",
@@ -719,7 +719,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T07:46:51.373Z",
+    "last_updated": "2026-11-12T08:24:10.824Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Dash (plotly) resources",
