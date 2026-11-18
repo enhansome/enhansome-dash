@@ -19,7 +19,7 @@
             "open_issues": 40,
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 75314,
+            "stars": 75318,
             "topics": [
               "awesome",
               "awesome-list",
@@ -48,10 +48,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-01-26T16:36:45Z",
-            "open_issues": 132,
+            "open_issues": 133,
             "owner": "brillout",
             "repo": "awesome-react-components",
-            "stars": 48901,
+            "stars": 48906,
             "topics": [
               "awesome",
               "awesome-list",
@@ -104,8 +104,8 @@
             "id": 427048846,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-16T17:32:51Z",
-            "open_issues": 15,
+            "last_commit": "2026-11-17T21:19:16Z",
+            "open_issues": 12,
             "owner": "snehilvj",
             "repo": "dash-mantine-components",
             "stars": 732,
@@ -135,7 +135,7 @@
             "open_issues": 233,
             "owner": "plotly",
             "repo": "dash-core-components",
-            "stars": 267,
+            "stars": 266,
             "topics": [
               "dash",
               "plotly-dash"
@@ -357,7 +357,7 @@
             "id": 135193052,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-17T05:24:35Z",
+            "last_commit": "2026-11-18T05:21:08Z",
             "open_issues": 13,
             "owner": "pikhovkin",
             "repo": "dash-flexbox-grid",
@@ -719,7 +719,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T09:16:30.112Z",
+    "last_updated": "2026-11-18T08:35:55.416Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Dash (plotly) resources",
@@ -731,7 +731,7 @@
       "open_issues": 1,
       "owner": "ucg8j",
       "repo": "awesome-dash",
-      "stars": 2274,
+      "stars": 2275,
       "topics": [
         "awesome",
         "awesome-list",
